@@ -1,2 +1,1 @@
-# Crowd-Counting-Visualization-Data-Collection
-Gathering data using C++
+Data Scraping for Dr. Hao Tang.
